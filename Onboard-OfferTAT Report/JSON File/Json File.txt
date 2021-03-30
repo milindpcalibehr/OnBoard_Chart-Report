@@ -1,0 +1,7 @@
+{
+"Username":"209240",
+"Password":"OB@1234",
+"To":"milind.pawar@calibehr.com",
+"Cc":"milind.pawar@calibehr.com",
+"Subject":"OfferTAT Report"
+}
